@@ -1,7 +1,3 @@
-"""
-NLMK — Dashboard Analytique Achats
-Framework : Flask + Plotly + scikit-learn
-"""
 
 from flask import Flask, render_template, request, redirect, url_for, session
 import pandas as pd
